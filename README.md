@@ -1,2 +1,0 @@
-# torus.github.io
-Torus
